@@ -1,0 +1,18 @@
+<settings>
+  <proxies>
+    <!-- proxy
+     | Specification for one proxy, to be used in connecting to the network.
+     |
+     -->
+    <proxy>
+      <id>optional</id>
+      <active>true</active>
+      <protocol>http</protocol>
+      <host>proxy.priv.atos.fr</host>
+      <port>3128</port>
+      <!--<nonProxyHosts>local.net|some.host.com</nonProxyHosts>-->
+    </proxy>
+    <!---->
+  </proxies>
+
+</settings>
